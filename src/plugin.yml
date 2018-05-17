@@ -1,0 +1,8 @@
+name: GriefProtection
+version: 0.1
+author: Taylor "delbertina"
+main: delbertina.griefprotection.twothousandseventeen.Main
+commands:
+      griefer:
+               description: Tell a user that they are griefing.
+               usage: griefer player
